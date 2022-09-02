@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "EmitterDocumentEditorPlugin": {
+      "commandName": "Executable",
+      "executablePath": "L:\\Documents\\FrostyEditor_v1.0.6.0\\FrostyEditor.exe",
+      "workingDirectory": "L:\\Documents\\FrostyEditor_v1.0.6.0"
+    }
+  }
+}
